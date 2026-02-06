@@ -126,7 +126,7 @@ TELEGRAM_TOKEN = "ВАШ_ТЕЛЕГРАМ_ТОКЕН"
 ```
 
 ### 3. Получение API ключей BingX
-1. Зарегистрируйтесь на BingX: https://bingx.com
+1. Зарегистрируйтесь на BingX: [https://bingx.com](https://bingx.com/invite/68FANLA19/)
 2. Перейдите в API Management
 3. Создайте новый API ключ с разрешениями на торговлю
 4. Скопируйте API Key и Secret
